@@ -3,7 +3,7 @@ import "./navbar.css";
 import {
   FaFacebookSquare,
   FaInstagramSquare,
-  FaYoutubeSquare,
+  // FaYoutubeSquare,
 } from "react-icons/fa";
 import { GiHamburgerMenu } from "react-icons/gi";
 
